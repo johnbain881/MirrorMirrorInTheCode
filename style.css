@@ -1,0 +1,22 @@
+h3 {
+    display: inline;
+}
+div {
+    display: flex;
+    flex-direction: row;
+}
+article {
+    width: 50%;
+    margin-top: 3em;
+    min-height: 1em;
+}
+#right {
+    border: solid 1px red;
+    margin-right: 10em;
+    margin-left: 5em;
+}
+#left {
+    border: solid 1px blue;
+    margin-right: 5em;
+    margin-left: 10em;
+}
